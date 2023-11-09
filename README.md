@@ -31,7 +31,7 @@
   <img align="center" alt="marcoslopes-Js" height="30" width="200" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
   <img align="center" alt="marcoslopes-Ts" height="30" width="100" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="marcoslopes-React" height="30" width="90" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img align="center" alt="marcoslopes-HTML" height="30" width="90" src="	https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white">
+  <img align="center" alt="marcoslopes-Neo4j" height="30" width="90" src="	https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white">
   <img align="center" alt="marcoslopes-CSS" height="30" width="90" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
   <img align="center" alt="marcoslopes-Python" height="30" width="110" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
