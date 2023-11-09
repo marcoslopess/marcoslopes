@@ -1,6 +1,6 @@
 ## Opa, bão? eu sou o Marcos Lopes, Programador FullStack JS e C#!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcoslopess&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcoslopess&show_icons=true&theme=merko)
 
 
 <div style="display: inline_block"><br>
